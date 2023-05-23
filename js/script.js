@@ -1,6 +1,6 @@
-// Copyright (c) 2020 Mr Coxall All rights reserved
+// Copyright (c) 2023 Olivia B-R All rights reserved
 //
-// Created by: dominik
+// Created by: Olivia B-R
 // Created on: May 2023
 // This file contains the JS functions for index.html
 
